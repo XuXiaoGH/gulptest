@@ -1,7 +1,7 @@
 # gulptest
 
 这是我写的一篇关于 gulp 入门文章里的演示Demo.
-
+传送门 ：https://segmentfault.com/a/1190000007263751
 
 ## 使用
 
